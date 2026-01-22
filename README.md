@@ -92,6 +92,26 @@ cd client
 npm install
 npm start
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png.png)
+
+### Login Page
+![Login](screenshots/login.png.png)
+
+### Register Page
+![Register](screenshots/register.png.png)
+
+### Create Post Page
+![Create Post](screenshots/create-post.png.png)
+
+### My Posts Page
+![My Posts](screenshots/my-posts.png.png)
+
+### Post Detail Page
+![Post Detail](screenshots/post-detail.png.png)
+
 
 Demo Credentials:
 
