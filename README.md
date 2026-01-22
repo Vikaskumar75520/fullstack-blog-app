@@ -61,8 +61,10 @@ server/
 
 Environment Variables
 Create a .env file inside the server folder:
+
 PORT=5000
 MONGO_URI=mongodb+srv://admin:4TG1HEjDA4vWVPyi@cluster0.ki7hfz9.mongodb.net/?appName=Cluster0
+
 JWT_SECRET=652afd845ee4761c89d5936dca06b124c1bec19e024da5a53027b2599eea9479
 
 API Endpoints
@@ -89,6 +91,13 @@ Frontend
 cd client
 npm install
 npm start
+
+
+Demo Credentials:
+
+Email: vikas2gmail.com  
+Password: 123456
+
 
 
 Author
